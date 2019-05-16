@@ -1,8 +1,6 @@
 # TFM-Kschool-Madrid-Traffic
 
-Readme file of my TFM about the analysis of traffic evolution in Madrid
-
-The repository contains an analysis done about the impact of the Madrid Central restriction on the traffic intensity in the surrounding areas of Madrid Central.
+This repository is my TFM about the Traffic evolution in Madrid. it contains an analysis done about the impact of the Madrid Central restriction on the variable traffic intensity in the surrounding areas of Madrid Central.
 
 Important: the files with the data are downloaded from the Notebook 0 with a script.
 
