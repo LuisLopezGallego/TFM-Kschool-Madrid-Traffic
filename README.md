@@ -4,6 +4,8 @@ Readme file of my TFM about the analysis of traffic evolution in Madrid
 
 The repository contains an analysis done about the impact of the Madrid Central restriction on the traffic intensity in the surrounding areas of Madrid Central.
 
+Important: the files with the data are downloaded from the Notebook 0 with a script.
+
 To be able to follow the process properly, you may need to open and run the files in the repository in the following order:
 
 0. Notebook 0 Data Acquisition: Downloading files with the data => notebook containing a script to GoogleDrive to download the files with the data used for the project
