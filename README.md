@@ -11,7 +11,9 @@ To be able to follow the process properly, you may need to open and run the file
 1. Notebook 1 Data Cleaning and Preparation (1): Devices Location => notebook with the code to analyse and visualize the location of the traffic measure devices
 
 2. Notebook 2 Data Cleaning and Preparation (2): Traffic Data => notebook with all the code related to the traffic data from January 2015 to April 2019. Actions performed on each file per month to afterwards concatenating them into a final dataframe with the devices
+
 IMPORTANT: the size of the file per month is heavy and the code last long so in case you want to omit that part of the code I stored also the final csv that concatenates all the monthly files "clean" on a csv named "data_traffic.csv" (see end of Notebook 0)
+In any case, more details will be explained on the Notebook 2
 
 3. Notebook 3 Analysis (1): Time Series => analytical analysis of the traffic intensity before Madrid Central restriction began and real observations performed for each device chosen from the surrounding area
 
